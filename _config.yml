@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.0785779343550056
+  lightness: 0.08819297324613973
+  rhythmicContrast: 0.8984850488164615
+  saturation: 0.5984539622652575
+cta: {}
+layout_spectrum: 0.302631
+name: kaylinator
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.314967
